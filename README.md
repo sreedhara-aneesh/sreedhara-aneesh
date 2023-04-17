@@ -2,8 +2,6 @@
 
 I'm a senior computer science student at North Carolina State University.
 
-I have interned at companies like **IBM** and **Optum**, with experience in **fullstack development**.
-
 You can find my resume, and more about me, at [my website](https://www.aneeshsreedhara.com).
 
 <!--
