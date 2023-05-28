@@ -1,7 +1,5 @@
 ### Hi there, I'm Aneesh 👋 
 
-I'm a senior computer science student at North Carolina State University.
-
 You can find my resume, and more about me, at [my website](https://www.aneeshsreedhara.com).
 
 <!--
