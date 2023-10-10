@@ -10,9 +10,11 @@
 - Created a self-updating portfolio that pulls data from a portfolio API to display up-to-date information with React.js.
 - Implemented CI/CD with GitHub Actions for deployment to cloud services, achieving an 80% reduction in deploy time.
 
-## Website
+## Links
 
-[aneeshsreedhara.com](https://www.aneeshsreedhara.com)
+Website: [aneeshsreedhara.com](https://www.aneeshsreedhara.com)
+
+LinkedIn: [linkedin.com/in/asreedhara](https://www.linkedin.com/in/asreedhara/)
 
 <!--
 **sreedhara-aneesh/sreedhara-aneesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
