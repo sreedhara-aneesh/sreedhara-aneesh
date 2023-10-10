@@ -1,6 +1,18 @@
-### Hi there, I'm Aneesh 👋 
+# Aneesh Sreedhara
 
-You can find my resume, and more about me, at [my website](https://www.aneeshsreedhara.com).
+## Public Projects
+
+**NC State Public Transit Tracker** • [github.com/sreedhara-aneesh/wolfline-track](https://github.com/sreedhara-aneesh/wolfline-track)
+- Developed an interactive and real-time tracking visualization map for NC State University buses with React.js and Node.js.
+- Implemented live tracking visualizations for 10 routes, ~95 stops, and ~20 vehicles with capacity and arrival estimates.
+
+**Dynamic Portfolio Website** • Personal • [github.com/sreedhara-aneesh/portfolio-website](https://github.com/sreedhara-aneesh/portfolio-website)
+- Created a self-updating portfolio that pulls data from a portfolio API to display up-to-date information with React.js.
+- Implemented CI/CD with GitHub Actions for deployment to cloud services, achieving an 80% reduction in deploy time.
+
+## Website
+
+[aneeshsreedhara.com](https://www.aneeshsreedhara.com)
 
 <!--
 **sreedhara-aneesh/sreedhara-aneesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
